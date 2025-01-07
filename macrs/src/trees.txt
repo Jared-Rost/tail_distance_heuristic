@@ -1,0 +1,9 @@
+"((a,#H1),((c)#H1,b))root;"
+
+"((a,#H1),((c)#H1,((b1,(b3)#H2),(#H2,b2))))root;" cherry
+
+"((a,#H1),((((b1,(b2)#H2),(#H2,b3)))#H1,c))root;" path
+
+"((((b1,#2)bl,((b3)#2,b2)br)b,#1)ab,((a)#1,((c1,(c3)#3)cl,(#3,c2)cr)c)ac)root;" triplet with innacesible centre
+
+
